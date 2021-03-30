@@ -12,7 +12,9 @@
     display: block;
     float: left;
   }
- 
+  .columnaMenu:hover{
+      color: gray;
+  }
   .cuadroRestante{
     width: 80%;
     height:100%;
